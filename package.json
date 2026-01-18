@@ -1,0 +1,9 @@
+{
+  "name": "connor-song",
+  "version": "1.0.0",
+  "description": "God Is With Me - Connor",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
